@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import "ISRViewController.h"
 @interface ViewController ()
 
 @end
@@ -16,7 +16,16 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+   
     // Do any additional setup after loading the view, typically from a nib.
+}
+- (void)viewDidAppear:(BOOL)animated
+{
+    ISRViewController * isr = [[ISRViewController alloc]init];
+//    [self.navigationController pushViewController:isr animated:NO];
+    [self presentViewController:isr animated:NO completion:^{
+        
+    }];
 }
 
 - (void)didReceiveMemoryWarning {
