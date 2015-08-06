@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8F16C60C-67B0-44EE-8CA3-B2DD85E806E1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1AC244A22A02A151EE8F673317BFA31B6A4CD979</key>
+		<string>https://github.com/xiaomochn/thePoint.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>thePoint/thePoint.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1AC244A22A02A151EE8F673317BFA31B6A4CD979</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xiaomochn/thePoint.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1AC244A22A02A151EE8F673317BFA31B6A4CD979</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1AC244A22A02A151EE8F673317BFA31B6A4CD979</string>
+			<key>IDESourceControlWCCName</key>
+			<string>thePoint</string>
+		</dict>
+	</array>
+</dict>
+</plist>
